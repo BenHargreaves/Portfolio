@@ -8,3 +8,6 @@ Portfolio site design. Created using Bootstrap 4.
 
 ## Installation
 No installation necessary. Copy Repo and run Index.html to view locally.
+
+## Images
+Images all taken with permission from https://www.pexels.com/ 
